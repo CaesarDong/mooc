@@ -16,7 +16,10 @@ master   hadgugdkadkasdkbaksdb
 
 6541273581638768768688
 
+
 public User orderToRedis(){
+	今天2月28日,天气很好,
 	this is master method
 	return new User();
+
 }
