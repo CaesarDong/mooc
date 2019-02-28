@@ -15,3 +15,8 @@ this is dev's bug
 master   hadgugdkadkasdkbaksdb
 
 6541273581638768768688
+
+public User orderToRedis(){
+	this is master method
+	return new User();
+}
